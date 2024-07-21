@@ -1,0 +1,5 @@
+id,nome,senha,permissao
+1,admin,admin123,gerente
+2,func1,func123,funcionario
+3,func2,func123,funcionario
+ferrazleo,Leonardo,123456,gerente
